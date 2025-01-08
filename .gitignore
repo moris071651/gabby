@@ -1,0 +1,14 @@
+# Ignore build artifacts
+build/
+lib/
+
+# Ignore compiled object files
+*.o
+
+# Ignore static and shared libraries
+*.a
+*.so
+*.so.*
+
+# Ignore editor files
+.vscode/
